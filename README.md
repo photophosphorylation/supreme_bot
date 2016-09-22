@@ -2,7 +2,7 @@
 Basic supreme bot
 
 # Requirements
-You need to install selenium and the selenium python library
+You need to install selenium and the selenium python library. Also, you need to have python installed.
 
 ```
 pip install selenium
